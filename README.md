@@ -1,4 +1,4 @@
-## 👋 Hi there, I'm Fatemeh Ghasemi!his
+## 👋 Hi there, I'm Fatemeh Ghasemi!
 + Thanks for popping by!
 
 - As a curious explorer, and contemplative learner with a focus on Problem analysis, I like read and work on real world problems and their solutions if applicable, meanwhile having fun.
