@@ -9,7 +9,7 @@
 <div>
     <a href="https://www.linkedin.com/in/ifatwme0" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" width="125px">
-    </a>&nbsp
+    </a>
     <a href="https://www.buymeacoffee.com/ifatwme" target="_blank">    
         <img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="30" width="125"
     </a>&nbsp
