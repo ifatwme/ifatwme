@@ -2,7 +2,7 @@
 + Thanks for popping by!
 
 - As a curious explorer, and contemplative learner with a focus on Problem analysis, I like read and work on real world problems and their solutions if applicable, meanwhile having fun.
-- You may want to also follow me on [GitHub](https://github.com/ifatwme) and [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME) for a great dose of practical educational data science content.
+- You may want to also follow me on [GitHub](https://github.com/ifatwme) and [LinkedIn](https://linkedin.com/in/fatwme) for a great dose of practical educational data science content.
 - You can find my portfolio below. Feel free to reach out for a chat on topics common to both of us!
 + **let's connect!**
 <h3> How to reach me </h3>
