@@ -1,20 +1,32 @@
-## 👋 Hi there, I'm Fatemeh Ghasemi!
-+ Thanks for popping by!
+# 👋 Hi there, I'm Fatemeh Ghasemi!
 
-- As a curious explorer, and contemplative learner with a focus on Problem analysis, I like read and work on real world problems and their solutions if applicable, meanwhile having fun.
-- You may want to also follow me on [GitHub](https://github.com/ifatwme) and [LinkedIn](https://linkedin.com/in/fatwme) for a great dose of practical educational data science content.
-- You can find my portfolio below. Feel free to reach out for a chat on topics common to both of us!
-+ **let's connect!**
-<h3> How to reach me </h3>
-<div>
-    <a href="https://www.linkedin.com/in/fatwme" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" width="125px">
+**AI Explorer | Computer Engineer**
+
+Welcome to my GitHub! I am a Computer Engineer with a deep passion for problem analysis, artificial intelligence, and building practical data science solutions. With a foundation in containerization, and machine learning pipelines, I enjoy tackling real-world challenges and building scalable systems from the ground up.
+
+* 🔭 **Currently focusing on:** Data engineering, machine learning frameworks, and AI research.
+* 💻 **Tech Stack & Interests:** Python, C++, Linux, Docker, MLOps, and physical robotics.
+* 🌐 Check out my deeper dives into projects and articles on my [Personal Portfolio](https://ifatwme.github.io/).
+
+### 📬 Let's Connect
+
+<div align="left">
+    <a href="https://ifatwme.github.io/" target="_blank">
+        <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website">
     </a>
-    <a href="https://www.buymeacoffee.com/ifatwme" target="_blank">    
-        <img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="30" width="125"
-    </a>&nbsp
-    
+    <a href="https://www.linkedin.com/in/fatwme" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+    <a href="mailto:ifatwmeghasemi@gmail.com">
+        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    </a>
+    <a href="https://t.me/ifatwme" target="_blank">
+        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+    </a>
 </div>
-<hr>
 
-## Portfolio Contents
+<br>
+
+---
+
+## 📂 Portfolio Contents
